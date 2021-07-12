@@ -2,4 +2,5 @@
 <name>b</name>
 <surname>bs</surname>
 <add again='123' />
+<feature c='1'/>
 </root>
